@@ -1,6 +1,6 @@
-# krypto
+# Learning flutter widgets
 
-A new Flutter project.
+A repo from my first encounter with flutter, code exercises.
 
 ## Getting Started
 
